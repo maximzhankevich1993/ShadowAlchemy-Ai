@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Shadow Alchemy — Daily Codex",
-  description: "Daily Subconscious Integration Protocols",
+  description: "Daily Subconscious Integration Protocols and Mental Biohacking",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
